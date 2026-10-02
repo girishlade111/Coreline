@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "Coreline Venture — Where Ambitious Founders Build",
   description: "A community focused on building a better tomorrow, where ambitious founders build enduring companies.",
   icons: {
-    icon: "/logo.svg",
+    icon: "logo.svg",
   },
 };
 
